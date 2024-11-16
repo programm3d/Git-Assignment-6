@@ -27,4 +27,4 @@ To run this project, you need:
 3. Run the following command to execute the script:
 
    ```sh
-   node pyramidPattern.js
+   node index.js
